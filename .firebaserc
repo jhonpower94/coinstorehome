@@ -9,7 +9,9 @@
     "ba": "bitanzo",
     "bf": "bitfinex-8a8f0",
     "tc": "trustcoin-44e97",
-    "be": "bitenzo-9aa3c"
+    "be": "bitenzo-9aa3c",
+    "kl": "keplaget",
+    "gb": "gnbit-c8942"
   },
   "targets": {
     "metamask-e293a": {
@@ -85,6 +87,20 @@
         ],
         "kl": [
           "keplaget"
+        ]
+      }
+    },
+    "keplaget": {
+      "hosting": {
+        "kl": [
+          "keplaget"
+        ]
+      }
+    },
+    "gnbit-c8942": {
+      "hosting": {
+        "klg": [
+          "keplagetwallet"
         ]
       }
     }
