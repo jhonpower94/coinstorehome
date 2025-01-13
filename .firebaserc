@@ -11,7 +11,8 @@
     "tc": "trustcoin-44e97",
     "be": "bitenzo-9aa3c",
     "kl": "keplaget",
-    "gb": "gnbit-c8942"
+    "gb": "gnbit-c8942",
+    "cp": "cryptophase-19312"
   },
   "targets": {
     "metamask-e293a": {
@@ -101,6 +102,13 @@
       "hosting": {
         "klg": [
           "keplagetwallet"
+        ]
+      }
+    },
+    "cryptophase-19312": {
+      "hosting": {
+        "cp": [
+          "cryptophase"
         ]
       }
     }

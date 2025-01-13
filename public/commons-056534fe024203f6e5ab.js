@@ -260,7 +260,7 @@
                 c = {
                     textColor: "#333",
                     darkerBlue: "#1565c0",
-                    darkBlue: "#4a21ef",
+                    darkBlue: "#0b0b0b",
                     lightBlue: "#2196f3",
                     white: "#FFFFFF",
                     black: "#000000",
